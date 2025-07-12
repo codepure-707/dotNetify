@@ -29,7 +29,7 @@
     "printWidth": 140
   },
   "dependencies": {
-    "@microsoft/signalr": "^5.0.9",
+    "@microsoft/signalr": "^6.0.0",
     "@microsoft/signalr-protocol-msgpack": "^5.0.9",
     "@types/node": "^14.0.1",
     "dotnetify-elements": "^1.5.4",
