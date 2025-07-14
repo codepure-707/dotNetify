@@ -15,7 +15,7 @@
     "LICENSE.*"
   ],
   "dependencies": {
-    "@microsoft/signalr": "~5.0.9",
+    "@microsoft/signalr": "~6.0.0",
     "jquery-deferred": "~0.3.1",
     "prop-types": "~15.6.1"
   },
