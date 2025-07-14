@@ -10,7 +10,7 @@
       "react-dom": "^16.0.0",
       "create-react-class": "^15.6.2",
       "prop-types": "^15.6.0",
-      "material-ui": "0.19.4",
+      "material-ui": "0.20.2",
       "chart.js": "1.1.1",
       "react-chartjs": "0.8.0",
       "@aspnet/signalr": "1.0.0-preview1-final"
