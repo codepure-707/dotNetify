@@ -12,8 +12,8 @@
     ]
   },
   "dependencies": {
-    "dotnetify": "^5.0.1",
-    "jsdom": "~16.2.2",
+    "dotnetify": "^5.2.0",
+    "jsdom": "~16.6.0",
     "react": "~16.11.0",
     "react-dom": "~16.11.0"
   },
