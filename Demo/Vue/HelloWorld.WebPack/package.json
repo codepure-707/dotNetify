@@ -5,7 +5,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "dotnetify": "^5.1.0",
+    "dotnetify": "^5.2.0",
     "vue": "^3.0.7"
   },
   "devDependencies": {
