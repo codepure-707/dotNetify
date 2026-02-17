@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "chart.js": "~2.7.2",
-    "dotnetify": "^5.0.1",
+    "dotnetify": "^5.2.0",
     "vue": "~2.5.17"
   },
   "devDependencies": {
